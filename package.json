@@ -47,7 +47,7 @@
     "ssri": "^6.0.2",
     "strip-ansi": "^4.0.0",
     "strip-bom": "^3.0.0",
-    "tar-fs": "^1.16.0",
+    "tar-fs": "^3.0.9",
     "tar-stream": "^1.6.1",
     "uuid": "^3.0.1",
     "v8-compile-cache": "^2.0.0",
